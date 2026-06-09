@@ -10,7 +10,7 @@ popularity, and the shift toward electric and hybrid vehicles over time.
 <img width="1728" height="976" alt="image" src="https://github.com/user-attachments/assets/e81296bc-a156-403e-a83c-049b3d8ec5d2" />
 
 
-[View Interactive Dashboard on Tableau Public] "https://public.tableau.com/app/profile/edward.truong/viz/BmwSalesAnalysis/BMWGlobalSalesAnalysis20152024?publish=yes"
+[View Interactive Dashboard on Tableau Public] https://public.tableau.com/app/profile/edward.truong/viz/BmwSalesAnalysis/BMWGlobalSalesAnalysis20152024?publish=yes
 
 ## Tools Used
 - Microsoft SQL Server / T-SQL
